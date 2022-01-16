@@ -16,6 +16,8 @@
 
 **Product Description:** Reach makes organized university sports easy. Athletes can navigate, find, and successfully join their university’s sports team in just a couple clicks using our web app or mobile app. As a result, students avoid long registration paperwork, slow university administration, and a lack of direct student support. 
 
-**Our Website:** [Reach](https://ourcompanyname.github.io/)
-
 **Pitch Deck:** [Reach_Pitch_Deck.pdf](https://github.com/Deniz-Jasa/Reach/files/7876094/Reach.Pitch.Deck.pdf)
+
+**Pitch Deck:** Judged by a panelist of 
+
+**Our Website:** [Reach](https://ourcompanyname.github.io/)
