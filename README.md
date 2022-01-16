@@ -18,6 +18,4 @@
 
 **Pitch Deck:** [Reach_Pitch_Deck.pdf](https://github.com/Deniz-Jasa/Reach/files/7876094/Reach.Pitch.Deck.pdf)
 
-**Pitch Deck:** Judged by a panelist of 
-
 **Our Website:** [Reach](https://ourcompanyname.github.io/)
